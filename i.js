@@ -39,7 +39,7 @@ function init() {
   var html = `
 <header class="nexmoe-nav">
     <div class="navSize">
-			<a href="/"><img class="avatar" src="https://gitee.com/suinev/images/raw/master/img/favicon.ico"/></a>
+			<a href="/"><img class="avatar" src="https://cdn.jsdelivr.net/gh/alev79/i/favicon.png"/></a>
 			<div class="nav_menu">
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="https://suia.ml/" target="_blank">博客</a></li>

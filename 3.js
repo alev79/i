@@ -43,7 +43,7 @@ function init() {
 			<div class="nav_menu">
 				<ul class="menu_ul">
 					<li class="menu_li"><a href="https://suia.ml/" target="_blank">博客</a></li>
-					<li class="menu_li"><a href="https://drive.google.com/" target="_blank">登陆</a></li>
+					<li class="menu_li"><a href="https://b.a79.workers.dev/" target="_blank">CloudFlare</a></li>
 				</ul>
 				<div class="nav_icon" ></div>
 			</div>
